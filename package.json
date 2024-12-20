@@ -1,13 +1,26 @@
 {
   "name": "99-bottles-of-thing",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repository is an experiment in using advanced TypeScript features to generate the '99 Bottles of Thing' song entirely at compile time. While primarily a demonstration of recursive and conditional types, it showcases the flexibility and power of TypeScript's type system.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Kevin R. Cooper",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevinRCooper/99-bottles-of-thing.git"
+  },
+  "homepage": "https://github.com/KevinRCooper/99-bottles-of-thing#readme",
+  "keywords": [
+    "99 bottles",
+    "advanced typescript",
+    "typescript",
+    "type system",
+    "recursive types",
+    "conditional types"
+  ]
 }

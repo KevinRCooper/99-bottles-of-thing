@@ -1,3 +1,5 @@
+[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)](https://www.typescriptlang.org)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 # 99 Bottles of Thing
 This repository is an experiment in using advanced TypeScript features to generate the '99 Bottles of Thing' song entirely at compile time. While primarily a demonstration of recursive and conditional types, it showcases the flexibility and power of TypeScript's type system. 
 
@@ -145,3 +147,6 @@ Subtract<N, Take> extends never
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&borderRadius=20)](https://www.linkedin.com/in/kevin-cooper-539a6194/)
